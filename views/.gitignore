@@ -1,0 +1,9 @@
+
+        .idea/
+        app.js
+        bin/
+        node_modules/
+        package.json
+        public/
+        routes/
+        views/
